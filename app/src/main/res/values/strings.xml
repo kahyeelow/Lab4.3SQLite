@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 4.3 SQLite</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_phone">Please enter phone</string>
+    <string name="error_name">Name please</string>
+    <string name="error_email">Email please</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="no_record_message">No record</string>
+</resources>
